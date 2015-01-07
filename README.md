@@ -38,3 +38,8 @@ keytool -exportcert -alias "ALIAS" -keystore "path to the .p12 from AppBuilder" 
 Note that ALIAS should be replaced with the name of the .p12 file as exported from AppBuilder, for example, USER NAME, if the .p12 is exported as USER NAME.p12. After you have a release certificate for Google Play, you can follow the same procedure, to obtain a hash for the release ALIAS.
 
 You will receive a key hash which should be entered in the FB app settings. This is the hash of the certificate used to sign the app which will be verified by FB in order to determine that the authorized app is making the request.
+
+## How to configure your APP ID in Facebook for iOS
+
+There are no additional configurations required for the app to work for iOS. In case your app requires a configuration for iOS you can read more about iOS configuration in the Facebook Developers portal [here](https://developers.facebook.com/quickstarts/286797954843521/?platform=ios). Please explore the Facebook [documentation page](https://developers.facebook.com/docs/apps/review) for app review and submission for more information too.
+
