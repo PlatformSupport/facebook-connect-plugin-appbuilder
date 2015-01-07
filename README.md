@@ -22,7 +22,7 @@ In order to configure your app in the Facebook Portal for Android you need:
 
 * **PackageName** - as it is entered in the Application Identifier of the AppBuilder project, for example com.mycompany.myappname.
 * **ClassName** - the name of the main activity in the project, which you can see in the `AndroidManifest.xml` file. You can follow the steps outlined in this [article](http://docs.telerik.com/platform/appbuilder/configuring-your-project/edit-configuration) to open the AndroidManifest configuration file in AppBuilder. The activity tag describes the main activity in the project and by default its name is [MyPackageName].TelerikCallbackActivity, for example `com.mycompany.myappname.TelerikCallbackActivity`.
-* `Key Hashes` - you can get the hash for the key used to sign your app in AppBuilder for Google Play or for Development by following these steps:
+* **Key Hashes** - you can get the hash for the key used to sign your app in AppBuilder for Google Play or for Development by following these steps:
         Verify that you have the latest Java Development Kit installed on your machine.
         In AppBuilder, open the User Options. (In the title bar, click Welcome, User Name -> Options).
         Go to Mobile -> Android - > Certification Management.
