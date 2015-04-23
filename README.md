@@ -1,3 +1,12 @@
+# Notification
+
+**If you'd like to integrate the Facebook SDK in your Telerik AppBuilder Hybrid project, please use the version of the Facebook plugin available in the [Telerik Verified Plugins Marketplace](http://plugins.telerik.com/plugin/facebook). It contains the latest versions of the Facebook native SDKs and is tailored to work with Telerik AppBuilder projects. Also, it will simplify the generation of hash tokens for your FB app for Android.** 
+
+The repository of the plugin is located at GitHub [here](https://github.com/Telerik-Verified-Plugins/Facebook). 
+The Telerik AppBuilder sample app for the plugin is located at GitHub [here](https://github.com/Telerik-Verified-Plugins/Facebook-DemoApp).
+
+**This repository is no longer maintained.**
+
 # facebook-connect-plugin-appbuilder
 
 This is the AppBuilder-compatible version of the Wizcorp Facebook Connect Plugin. The original version could be found at https://github.com/Wizcorp/phonegap-facebook-plugin.
